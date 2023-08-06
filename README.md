@@ -1,5 +1,5 @@
-# BKI-Engine-Pack
-  Parts pack for Kerbal Space Program that consists of a BDB-alike engines and accessories.
+# BKI Engine Pack
+  Parts pack for Kerbal Space Program that consists of BDB-alike engines and accessories.
 
   **Author:** Bob Kerman Industries
 

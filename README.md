@@ -1,4 +1,4 @@
-# BEANS - Bob kerma nindustries Engines and Accessories iNdustrial Services
+# BEANS - Bob kerman industries Engines and Accessories iNdustrial Services
   Parts pack for Kerbal Space Program that consists of BDB-alike engines and accessories.
 
   **Author:** Bob Kerman Industries
